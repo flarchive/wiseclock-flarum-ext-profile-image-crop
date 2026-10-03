@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of wiseclock/flarum-ext-profile-image-crop.** Not for installation: use [Packagist](https://packagist.org/packages/wiseclock/flarum-ext-profile-image-crop) or the [upstream repository](https://github.com/WiseClock/flarum-ext-profile-image-crop).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/wiseclock-flarum-ext-profile-image-crop/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/wiseclock-flarum-ext-profile-image-crop/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-03-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-profile-image-crop/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-03-14 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-profile-image-crop/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/wiseclock-flarum-ext-profile-image-crop.json](https://github.com/flarchive/archive-index/blob/main/packages/wiseclock-flarum-ext-profile-image-crop.json)
 
